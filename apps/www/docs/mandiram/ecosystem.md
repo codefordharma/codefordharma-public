@@ -1,5 +1,6 @@
 ---
-title: Temples Ecosystem
+title: Mandir Ecosystem
+docId: ecosystem
 sidebar_position: 1
 ---
 
@@ -22,8 +23,8 @@ To protect our temples from exploitation, we have come up with this platform to 
 Initiatives which we are focusing on:
 
 1. Collecting information about all the existing Sanatan Dharma Temples, their deities, culture, history & devotional stories in one place thereby creating an interconnected repository.
-2. Our \#LostTemple initiative will find temples which we have lost & document them for a better understanding.
-3. Our \#ReclaimTemple initiative will list all the temples that were destroyed by invasion and collect all the information related to them.
+2. Our LostTemple initiative will find temples which we have lost & document them for a better understanding.
+3. Our ReclaimTemple initiative will list all the temples that were destroyed by invasion and collect all the information related to them.
 4. Recording all the temple's information in one place as an encyclopedia which will help people to learn about Sanatan culture & history and will enable effective research in this field.
 5. We aim to connect with all the people who are connected with their local temples thereby creating a support system for our initiative\(s\).
 6. We want to connect every Sanatani across the world, through our platform.
@@ -31,28 +32,29 @@ Initiatives which we are focusing on:
 **INITIAL DEVELOPMENT**:
 
 <!-- - Android App: [http://bit.ly/mandiram-app](http://bit.ly/mandiram-app) -->
-- iOS App: Will be released after May 2021
-- Web App: After Dec 2021
+
+<!-- - iOS App: Will be released after May 2021
+- Web App: After Dec 2021 -->
 
 ## 4. Movements
 
-### 4.1 \#FreeTemples Movement
+### 4.1 FreeTemples Movement
 
 - Our temples which hold a huge reservoir of our donations in form of cash, gold and gems are indirectly controlled/interfered in by Govt. of India/State Govts./Local Bodies and this is primarily practised for temples whereas keeping the secular nature of the constitution of India in mind, religion is not a matter of the state to deal with which the govts. should adhere to.
 - We aim to create a movement to limit/end the interference and reclaim our existing temples from the government through legal channels within the limits of the Constitution of India. Sanatan Dharma temples should be free from any political interference.
 
-### 4.2 \#LostTemples Movement
+### 4.2 LostTemples Movement
 
 - Many of our megastructures are situated in the middle of the jungles, high altitude mountainous terrains or in deserted lands.
 - Aforementioned structures or temples were once prosperous and had a well-established city around them. However, when the invaders looted all the wealth and destroyed our ecosystem, the native people were left with no other option than to abandon the looted city and to scatter at various places.
 - The temples’ structure have remained there for 100s of years now and we are working day and night to retain our lost and forgotten beautiful temples.
 
-### 4.3 \#DeitiesTheft Movement
+### 4.3 DeitiesTheft Movement
 
 - According to a study, over 1,000 artefacts are stolen and smuggled every year from Indian temples.
 - We are also working to get back our deities which are estimated to be worth billions of dollars by western countries. Those deities are precious for us and are worth much more than their monetary value.
 
-### 4.4 \#ProtectPujaries & \#ProtectSadhus
+### 4.4 ProtectPujaries & ProtectSadhus
 
 - We often hear of news regarding atrocities on Sadhus/Pujaries through news channels like how a poor Sadhu/Pujari was burnt alive for protecting his temple from a builder, or we can see how a Pujari was beaten to death because he was wearing his traditional saffron outfit.
 - We need to protect and raise voice against every incident doing unjust to our Gurus, our Sages as they are the building blocks of our ecosystem.
@@ -152,7 +154,7 @@ We aim for the following:
 ### 8.1 Action Plan in steps:
 
 1. Build Temple Encyclopedia
-2. **FreeTemples, \#LostTemples & \#ReclaimTemples Movement**
+2. **FreeTemples, LostTemples & ReclaimTemples Movement**
 3. Building Gurukuls, Gaushalas and making the temple ecosystem financially stable.
 4. Protecting Temples with our Security Forces
 5. Make this platform go Global.
@@ -161,8 +163,14 @@ We aim for the following:
 
 ## 9. Interviews
 
-{% embed url="https://youtu.be/ehkfBCj79fw" %}
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/ehkfBCj79fw"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+>
+</iframe>
 
 Co-Founder Avinash Yadav Interview with VSI Foundation
-
-###

@@ -24,13 +24,14 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/main/website/",
+          editUrl:
+            "https://github.com/codefordharma/codefordharma-public/edit/main/website/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+            "https://github.com/codefordharma/codefordharma-public/edit/main/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -42,6 +43,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
+      image: "img/docusaurus.png",
+      metadata: [{ name: "twitter:card", content: "summary" }],
+      // announcementBar: {
+      //   id: "support_us",
+      //   content:
+      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+      //   backgroundColor: "#fafbfc",
+      //   textColor: "#091E42",
+      //   isCloseable: false,
+      // },
       navbar: {
         title: "Code for Dharma",
         logo: {
@@ -57,17 +73,58 @@ const config = {
           },
           {
             label: "Mandiram",
+            type: "dropdown",
             page: "mandiram",
             position: "left",
             to: "/mandiram",
+            items: [
+              {
+                label: "Ecosystem",
+                to: "/docs/mandiram/ecosystem",
+              },
+              {
+                label: "App",
+                to: "/docs/mandiram/app",
+              },
+              {
+                label: "Join hands",
+                to: "/docs/mandiram/join-networking-team",
+              },
+            ],
           },
+          // {
+          //   type: "doc",
+          //   docId: "index",
+          //   position: "left",
+          //   label: "Docs",
+          // },
+          // { to: "/blog", label: "Blog", position: "left" },
+          // Right
+          // {
+          //   type: "docsVersionDropdown",
+          //   position: "right",
+          //   dropdownActiveClassDisabled: true,
+          //   dropdownItemsAfter: [
+          //     {
+          //       href: "https://v1.docusaurus.io",
+          //       label: "1.x.x",
+          //     },
+          //     {
+          //       to: "/versions",
+          //       label: "All versions",
+          //     },
+          //   ],
+          // },
           {
-            type: "doc",
-            docId: "index",
-            position: "left",
-            label: "Docs",
+            type: "localeDropdown",
+            position: "right",
+            dropdownItemsAfter: [
+              {
+                href: "https://github.com/facebook/docusaurus/issues/3526",
+                label: "Help Us Translate",
+              },
+            ],
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
@@ -78,15 +135,15 @@ const config = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Docs",
-                to: "/docs",
-              },
-            ],
-          },
+          // {
+          //   title: "Docs",
+          //   items: [
+          //     {
+          //       label: "Docs",
+          //       to: "/docs",
+          //     },
+          //   ],
+          // },
           {
             title: "Community",
             items: [
@@ -107,10 +164,10 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
+              // {
+              //   label: "Blog",
+              //   to: "/blog",
+              // },
               {
                 label: "GitHub",
                 href: "https://github.com/facebook/docusaurus",
