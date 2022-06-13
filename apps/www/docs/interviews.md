@@ -6,7 +6,7 @@ sidebar_position: 8
 
 <!-- @format -->
 
-# Interviews
+<!-- # Interviews -->
 
 {% embed url="https://youtu.be/gK\_Yv5NUI4M" caption="Founder Himank Barve interviewed by Desh Kapoor from Drishtikone Media" %}
 

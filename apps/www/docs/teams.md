@@ -6,11 +6,11 @@ sidebar_position: 3
 
 <!-- @format -->
 
-# Teams
+<!-- # Teams -->
 
 Code for Dharma team is not limited to only software professionals. Anyone who wants to contribute towards dharma is welcome here.
 
-## Founding Members:
+## Founding Members
 
 <!-- ![Himank Honey Barve \(Founder\)](.gitbook/assets/dsc02583.jpeg)
 
@@ -44,4 +44,4 @@ Code for Dharma team is not limited to only software professionals. Anyone who w
 
 12. Join Us
 
-[Click Here](join-us.md)
+<!-- [Click Here](join-us.md) -->

@@ -59,7 +59,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * We need to have courses on both ancient and latest education in our platform and focus students to find and realise the truth.
   * Education on Yoga, Vedas Education on whole modern Science
 
-[Learn More](gurukuls/gurukuls.md)
+<!-- [Learn More](gurukuls/gurukuls.md) -->
 
 ## 7. Temples
 
@@ -72,7 +72,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * Upgrade them for Vaidya Shala/Hospital. 
 * Martial Arts/Self Defence classes should be compulsory for people connecting here as our temples are getting attacked and looted from 100s of years.
 
-[Learn More](temples/temples-ecosystem.md)
+<!-- [Learn More](temples/temples-ecosystem.md) -->
 
 ## 8. Library
 
@@ -83,7 +83,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * All of our ancient knowledge should be in one place and easy to access. 
 * We are building this digital library in the memory of Nalanda Library which was burned by Islamic Invader.
 
-[Learn More](library/library.md)
+<!-- [Learn More](library/library.md) -->
 
 ## 9. History
 
@@ -93,7 +93,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * We need to present original content as much as possible. 
 * We need to document all the genocide happened to us in whole history by invaders.
 
-[Learn More](history/history-itihasa.md)
+<!-- [Learn More](history/history-itihasa.md) -->
 
 ## 10. Nari Shakti
 
@@ -110,7 +110,7 @@ Learn More
 * We have separate traditions for Kinnars which are going on from ancient ages. 
 * We need to build strong ecosystem for kinnars too.
 
-[Learn More](kinnars/kinnars.md)
+<!-- [Learn More](kinnars/kinnars.md) -->
 
 ## 12. Legal Team
 
@@ -123,7 +123,7 @@ Learn More
 * We need to build our Swadeshi brands on all the products in all the fields. 
 * We need to build ecosystem where we can provide jobs to our people.
 
-[Learn More](economy/economy.md)
+<!-- [Learn More](economy/economy.md) -->
 
 ## 14. Finance
 
@@ -158,7 +158,7 @@ Learn More
 * List all the patents done on our ayurveda 
 * List all the research done on ayurveda also
 
-[Learn More](ayurveda/ayurveda.md)
+<!-- [Learn More](ayurveda/ayurveda.md) -->
 
 ## 20. Sanskrit
 
@@ -168,7 +168,7 @@ Learn More
 * Develop AI for Sanskrit 
 * Develop Computer Programming Language from sanskrit. 
 
-[Learn More](sanskrit/sanskrit.md)
+<!-- [Learn More](sanskrit/sanskrit.md) -->
 
 ## 21. Gaushala
 
@@ -178,7 +178,7 @@ Learn More
 * Listing all the genocide done on our cows 
 * Making ecosystem to protect and promote our indigenous cow breed
 
-[Learn More](gaushala/gaushala.md)
+<!-- [Learn More](gaushala/gaushala.md) -->
 
 ## 22. Yoga
 
@@ -189,9 +189,3 @@ Learn More
 ## 23. Language Team
 
 As we all know Bharat is multi-lingual place, so we need people who are very good in all major language to connect with them and translate all of our content to reach the masses.
-
-  
-  
-  
-
-

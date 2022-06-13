@@ -38,22 +38,22 @@ We are going to create complete user focused online platforms to achieve goals o
 
 To anything to work, we need motivated people to make things happen, for that only, we have listed down all the skills we need to achive our goals.
 
-[Learn More](teams.md)
+<!-- [Learn More](teams.md) -->
 
 ### 4. Projects
 
 To Achieve our goals, we have ourlined important projects which we will be working on to make dharma strong in digital world.
 
-[Learn More](projects.md)
+<!-- [Learn More](projects.md) -->
 
 ### 5. Services
 
 As **code for dharma** is a team of software professionals, we will be providing consultancy services to all the Non-profit entities working towards betterment of Dharma in anyway so that their presence in digital world can also become strong.
 
-[Learn More](services.md)
+<!-- [Learn More](services.md) -->
 
 ### 6. Join Us
 
 We have listed down all the skills we will be needing to achieve our goals here.
 
-[Learn More](join-us.md)
+<!-- [Learn More](join-us.md) -->

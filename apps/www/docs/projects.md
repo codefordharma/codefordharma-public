@@ -17,7 +17,7 @@ sidebar_position: 5
 3. We already have collected basic details of over 65,000 temples and are working to take it further to the last Temple at a remote location.
 4. This platform will also be used to limit/end the unjust interference of govt bodies in Temple management boards.
 
-[Learn More](temples/temples-ecosystem.md)
+<!-- [Learn More](temples/temples-ecosystem.md) -->
 
 ## 2. Sanskrit
 
@@ -26,7 +26,7 @@ sidebar_position: 5
 3. This application will also be used to learn Sanskrit from various other languages i.e. a person from any part of the world may learn Sanskrit through this Application.
 4. Our vision is to make this platform as a one stop solution for all the content related to Sanskrit.
 
-[Learn More](sanskrit/sanskrit.md)
+<!-- [Learn More](sanskrit/sanskrit.md) -->
 
 ## 3. History
 
@@ -35,7 +35,7 @@ sidebar_position: 5
 3. This platform shall be particularly useful for Sanatanis settled outside India to recognize their racial roots and to be truly aware about their history.
 4. To present history in an interesting and interactive manner, we also aim to create documentaries, OTT TV Series of major Sanatani history events.
 
-[Learn More](history/history.md)
+<!-- [Learn More](history/history.md) -->
 
 ## 4. Library
 
@@ -44,7 +44,7 @@ sidebar_position: 5
 - The aforementioned information shall be translated in various other Indian Languages and popular foreign languages by the respective scholars of the language in which the text is originally written and shall be available in the text and audio format.
 - Our vision through this platform is to popularise, improve and enhance the reach of the ancient Indian Knowledge all over the Globe.
 
-[Learn More](library/library.md)
+<!-- [Learn More](library/library.md) -->
 
 ## 5. Gurukuls
 
@@ -53,7 +53,7 @@ sidebar_position: 5
 - Through this platform our vision is to popularise ancient Indian knowledge which is relevant even in the modern era eg. Ancient Vedic Mathematics had the calculation techniques which are much efficient and faster than the comparative arabic numerical methods.
 - This platform will connect all the physical gurukuls as well.
 
-[Learn More](gurukuls/gurukuls.md)
+<!-- [Learn More](gurukuls/gurukuls.md) -->
 
 ## 6. Gaushala
 
@@ -63,7 +63,7 @@ sidebar_position: 5
 - This platform will also consist of all the information regarding the history, culture & stories related to our desi cows as Cow is considered to be one of the most sacred elements of Sanatan Dharma.
 - We also aim to stop illegal Cow trafficking and to stop Cow Slaughter through this platform.
 
-[Learn More](gaushala/gaushala.md)
+<!-- [Learn More](gaushala/gaushala.md) -->
 
 ## 7. Economy
 
@@ -73,34 +73,34 @@ sidebar_position: 5
 - Job Portals
 - Funding & Financial Support
 
-[Learn More](economy/economy.md)
+<!-- [Learn More](economy/economy.md) -->
 
 ## 8. Job Portals
 
-[Learn More](economy/job-portal.md)
+<!-- [Learn More](economy/job-portal.md) -->
 
 ## 9. Narittva
 
 - With this platform, we aim to support our Sanatan Females in fighting against any injustice to them and to protect them from the fake feminist propagandas.
 - Also, we aim to help in making our Nari-Shakti independent by creating/supporting an e-commerce platform to promote the products by Indian Females through cottage industries or as a female entrepreneur.
 
-[Learn More](kinnars/kinnars.md)
+<!-- [Learn More](kinnars/kinnars.md) -->
 
 ## 10. Prajatantra
 
-[Learn More](prajatantra/prajatantra.md)
+<!-- [Learn More](prajatantra/prajatantra.md) -->
 
 ## 11. Urja
 
 With this initiative, we aim to support Sanatan Clean Energy initiatives, thereby protecting mother nature and strengthening the Sanatan Economy i.e. the product entirely initiated, developed and sold by Sanatanis to the world.
 
-[Learn More](urja/urja.md)
+<!-- [Learn More](urja/urja.md) -->
 
 ## 12. Kalakari
 
 With this initiative, we aim to Promote Sanatan Dharmic arts, thereby strengthening the Sanatan Economy i.e. the product entirely initiated, developed and sold by Sanatanis to the world.
 
-[Learn More](kalakari/kalakari.md)
+<!-- [Learn More](kalakari/kalakari.md) -->
 
 ## 13. News Portal
 

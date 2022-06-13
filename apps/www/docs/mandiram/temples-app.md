@@ -64,8 +64,8 @@ Our App will help all of us with that.
 
 ## 3. Data Collection
 
-please visit [Contributors Guidelines](contributors-guidelines.md)
+<!-- please visit [Contributors Guidelines](contributors-guidelines.md) -->
 
 ## 4. Customer Support
 
-Please reach out to us on [Twitter](https://www.twitter.com/codefordharma) or [Telegram](https://t.me/mandiram_app)
+<!-- Please reach out to us on [Twitter](https://www.twitter.com/codefordharma) or [Telegram](https://t.me/mandiram_app) -->
